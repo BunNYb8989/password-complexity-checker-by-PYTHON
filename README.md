@@ -119,3 +119,14 @@ if feedback:
 <br/>
 <br/>
 </p>
+
+If in case the password is weak the following conditions will de displayed  and if the 
+conditons are satesfied then the password will be strong
+
+<p align="center">
+<b>Root User</b>
+<br/>
+  <img src="error.png"/>
+<br/>
+<br/>
+</p>
