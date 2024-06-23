@@ -52,4 +52,10 @@ if feedback:
         print(f"- {item}")
 
 ```
-
+<p align="center">
+<b>Root User</b>
+<br/>
+  <img src=""/>
+<br/>
+<br/>
+</p>
