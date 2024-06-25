@@ -74,12 +74,19 @@ Password Meter: An online tool providing a detailed assessment of password stren
 
 
 # BASIC SYNTAX 
+ 
  password_complexity_checker
+ 
  Import the recommended thing like 're'(regural expresstion)
+ 
  Criteria for checking password complexity(length,upper,lower,digit,special_char criteria s)
+ 
  calculate the complexity score 
+ 
  provide feedback based on the score
+ 
  example usage
+ 
  complexiry , feedback =password_complexity_checker(password)
  
 
