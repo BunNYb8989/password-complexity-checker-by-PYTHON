@@ -147,7 +147,7 @@ if feedback:
 <p align="center">
 <b>Root User</b>
 <br/>
-  <img src="output .png"/>
+  <img src="output.png"/>
 <br/>
 <br/>
 </p>
